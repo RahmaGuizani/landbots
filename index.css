@@ -1,0 +1,84 @@
+body 
+{ 
+ background-color:  #281e65;
+}
+
+    h1 {
+    color: white ;
+    text-align: left; }
+     p {
+    color: #b639cf; }
+
+    .login {
+    border: 2px solid #281e65;
+    border-radius: 30px;
+    padding :15px ; 
+    text-decoration: none ;
+    color: white ; }
+    .login:hover {
+        background-color:rgb(24, 44, 223) ;}
+    .singup {
+        border: 2px solid  white;
+        border-radius: 30px;
+        padding :15px ;
+        text-decoration: none ;
+        color: white ; }
+        .singup:hover {
+            background-color:rgb(24, 44, 223) ;}
+    HEADER {
+        display: flex ;
+        justify-content: space-between ;
+    }      
+    .inclunison {
+        margin-top: 2em ;}
+    .chat1 {
+            margin-left: 15em ;}
+    .chat2 {
+                margin-left: 15em ;}
+    .txt1 {
+        background-color:  white;
+        border: 1px solid white;
+        border-radius: 30px;
+        padding :15px ;
+        width: 0.5in ; }
+    .txt2 {
+        background-color:  white;
+        border: 2px solid white;
+        border-radius: 30px;
+        padding :15px ;
+        width: 5in }
+    .txt3 {
+        background-color:  white;
+        border: 2px solid white;
+        border-radius: 30px;
+        padding :15px ; 
+        width: 2.5in ;
+        margin-top:-10px; 
+        }
+    .imagerond {
+        border-radius: 30px ;
+        width:0.75 ; }
+    .im-right{
+            position: relative ;
+            left: 188px;  
+            bottom: -37px;
+        }
+    .left{ display:flex ;}
+    .bouton{
+        background-color:  rgb(255, 17, 50);
+        border: 2px solid rgb(188, 0, 68);
+        border-style: solid;
+        width: 150px ;
+        height: 75px; 
+        color: white ;}
+    .bouton:hover {
+        background: linear-gradient(25deg, #e36c1c, #e0e426);
+        background-size: 400% 400%; }
+    .option {color : white;}
+    .footer{
+        background-color:  white;
+        border: 2px solid white ;
+        border-style: solid;
+        width: 500px ;
+        height: 100px; }
+        
